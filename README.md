@@ -27,6 +27,7 @@ I will regularly update this repository as I solve problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Union-Find
 |  |
@@ -36,4 +37,12 @@ I will regularly update this repository as I solve problems.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
