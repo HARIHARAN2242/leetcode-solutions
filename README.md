@@ -21,6 +21,7 @@ I will regularly update this repository as I solve problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
@@ -31,4 +32,8 @@ I will regularly update this repository as I solve problems.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
