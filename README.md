@@ -45,6 +45,7 @@ I will regularly update this repository as I solve problems.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -53,4 +54,12 @@ I will regularly update this repository as I solve problems.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
