@@ -21,6 +21,7 @@ I will regularly update this repository as I solve problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
@@ -57,9 +58,14 @@ I will regularly update this repository as I solve problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
