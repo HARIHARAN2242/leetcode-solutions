@@ -22,6 +22,7 @@ I will regularly update this repository as I solve problems.
 | ------- |
 | [0001-two-sum](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
@@ -46,6 +47,7 @@ I will regularly update this repository as I solve problems.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Linked List
 |  |
@@ -68,4 +70,8 @@ I will regularly update this repository as I solve problems.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/HARIHARAN2242/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
